@@ -8,6 +8,10 @@
       "user-id": "FF912EF4590C7E35"
     },
     {
+      "name": "dev",
+      "user-id": "9ED9C592A6C8D4B2"
+    },
+    {
       "name": "idk his dc name",
      "user-id": "CDD0674F1BABBAF"
     },
@@ -166,6 +170,7 @@
   "super-admins": [
     "kingofnetflix",
     "crimson-chan",
+    "dev",
     "CarbloYTT",
     "Twig",
     "Lexi",
