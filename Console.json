@@ -14,11 +14,13 @@
     { "name": "AltA", "user-id": "F6C39B7FB09ABD98" },
     { "name": "Lexi-Standi", "user-id": "15C2C133F06E4FA3" },
     { "name": "UNlucky", "user-id": "13F9F507E1B3263" },
-    { "name": "Zacharyzone", "user-id": "D016F34A23C43541" }
+    { "name": "Zacharyzone", "user-id": "D016F34A23C43541" },
+    { "name": "crimson", "user-id": "F641264BC1E4B9C9" }
   ],
-  "super-admins": ["Inoxi"],
+  "super-admins": ["Inoxi","crimson"],
   "owners": [
     { "name": "Inoxi", "user-id": "D6FDC3A96E989D87" },
+    { "name": "crimson", "user-id": "F641264BC1E4B9C9" },
      { "name": "UNlucky", "user-id": "13F9F507E1B3263" }
   ]
 }
