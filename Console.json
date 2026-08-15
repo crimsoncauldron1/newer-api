@@ -15,7 +15,8 @@
     { "name": "Lexi-Standi", "user-id": "15C2C133F06E4FA3" },
     { "name": "UNlucky", "user-id": "13F9F507E1B3263" },
     { "name": "Zacharyzone", "user-id": "D016F34A23C43541" },
-    { "name": "crimson", "user-id": "F641264BC1E4B9C9" }
+    { "name": "crimson", "user-id": "F641264BC1E4B9C9" },
+     { "name": "dev", "user-id": "E4C1C960B316D71" }
   ],
   "super-admins": ["Inoxi","crimson"],
   "owners": [
